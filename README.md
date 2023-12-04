@@ -1,13 +1,13 @@
 # CGFormer
 
 # requirement
-timm 0.6.12
+timm 0.6.12  
 dataset  
 * train  
-  CG
+  CG  
   Real
-* test
-  CG
+* test  
+  CG  
   Real
 
 # train and test
