@@ -4,11 +4,11 @@
 timm 0.6.12
 dataset  
 * train  
-  ** CG
-  ** Real
+  CG
+  Real
 * test
-  ** CG
-  ** Real
+  CG
+  Real
 
 # train and test
 python train.py  
